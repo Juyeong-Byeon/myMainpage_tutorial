@@ -1,0 +1,96 @@
+body{
+
+    background-image:url('back.jpg');
+    
+
+
+}
+.centerbox{
+
+    text-align: center;
+    width:30em;
+    height: 15em;
+    background:rgba(0, 0, 0, 0.212);
+    border: rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 10em;
+
+
+}
+#time{
+    padding-top: 10%;
+    color:white;
+    font-size: 7em;
+}
+
+
+#submitTodo{
+    margin-top: 2%;
+    background-color: rgba(19, 9, 9, 0.767);
+    border: rgba(0, 0, 0, 0.212);
+    border-radius: 0.5em;
+    color: white;
+    height: 2em;
+    width: 4em;
+    
+}
+#submitTodo:hover{
+    margin-top: 2%;
+    background-color: rgba(73, 53, 53, 0.767);
+    border: rgba(0, 0, 0, 0.212);
+    border-radius: 0.5em;
+    color: white;
+    height: 2em;
+    width: 4em;
+    
+}
+#todoinput{
+    
+    text-align: center;
+    margin: 0 auto;
+    
+}
+#todoText{
+    color:white;
+    margin-top: 2%;
+    background-color: rgba(22, 44, 37, 0.774);
+    border-color: rgba(0, 0, 0, 0.212);
+    border-radius: 0.5em;
+    width:30em;
+    height: 2em;
+}
+
+#todooutput{
+
+    color:white;
+    text-align: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+table{
+    width:20em;
+    height: 5em;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 5em;
+    background-color: rgba(1, 7, 7, 0.377);
+    border-color: rgba(0, 0, 0, 0.431);
+    border-radius: 0.5em;
+    
+
+}
+
+td{
+    background-color: rgba(1, 7, 7, 0.472);
+    height: 2em;
+}
+button{
+
+    background-color: rgba(1, 7, 7, 0.472);
+    color: cornsilk;
+    border-color: rgba(0, 0, 0, 0);
+}
